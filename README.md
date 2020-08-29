@@ -1,8 +1,6 @@
 ## Welcome to Cardiac Lab
 
-![](Images/mouseheart.jpg)
-
-The Cardiac lab is interested in the molecular mechanisms underlying heart disease and heart failure. Our research focuses on the impact of age on the failing heart, sex differences in heart failure development and treatment, exercise as medicine for heart failure, and the identification of new therapies for the treatment of cardiac disease. 
+![](Images/mouseheart.jpg)  Cardiac lab is interested in the molecular mechanisms underlying heart disease and heart failure. Our research focuses on the impact of age on the failing heart, sex differences in heart failure development and treatment, exercise as medicine for heart failure, and the identification of new therapies for the treatment of cardiac disease. 
 
 [editor on GitHub](https://github.com/AykhanYusifov/Cardiac-Lab/edit/master/README.md) 
 
