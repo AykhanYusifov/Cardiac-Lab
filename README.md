@@ -17,20 +17,15 @@ Coming soon...
 
 ![](Images/d_bruns_200x300.jpg) 
 
-##### EDUCATION
+###### Education
 
 PhD. Human Bioenergetics, Colorado State University (2013)
 Health and Exercise Science, Colorado State University (2010)
 Exercise Science, Linfield College (2008)
 
-##### TEACHING
+###### Teaching
+
 HM6630: Circulatory, Pulmonary, and Renal Systems
-
-##### AFFILIATIONS
-
-American Heart Association
-American Physiological Association
-Gerentological Society of America
 
 #### Benjamin McNair
 
