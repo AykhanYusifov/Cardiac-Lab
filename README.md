@@ -71,7 +71,9 @@ Add Ross bio + image
 
 #### Musharraf Yusifova
 
-Add Mushu bio + image
+![](Images/IMG_4467.jpeg)
+
+Add Mushu bio 
 
 #### Zack
 
