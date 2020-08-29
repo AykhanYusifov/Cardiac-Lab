@@ -1,5 +1,7 @@
 ## Welcome to Cardiac Lab
 
+![](Images/brunslabimage1.jpg)
+
 The Cardiac lab is interested in the molecular mechanisms underlying heart disease and heart failure. Our research focuses on the impact of age on the failing heart, sex differences in heart failure development and treatment, exercise as medicine for heart failure, and the identification of new therapies for the treatment of cardiac disease. 
 
 [editor on GitHub](https://github.com/AykhanYusifov/Cardiac-Lab/edit/master/README.md) 
@@ -10,11 +12,15 @@ The Cardiac lab is interested in the molecular mechanisms underlying heart disea
 
 #### The Right Heart
 
+![](Images/rightheartfailure.jpg)
+
 You’re only as strong as your weakest link
 
 The heart is a 4-chambered organ with two sides- the left heart which pumps to the periphery and the right heart which pumps through the lungs.  Cardiac function is limited by the performance of its weakest ventricle, meaning that even in contexts of healthy left ventricular (LV) function, the heart can only perform as well as its weakest link.  In the setting of many human diseases such as heart failure and pulmonary hypertension, this means that right ventricular (RV) function predicts survival.  Our group is interested in understanding how the right heart fails and identifying therapeutic targets for the RV- a disease in which very few therapeutic options exist.
 
 #### The Aging Right Heart
+
+![](Images/rightheartfailure2.jpg)
 
 Aging imparts known changes to the left heart- including hypertrophy, fibrosis, inflammation, and overall reduced cardiac function.  How these changes impact the right heart remains unknown.  Our group uses two models of right heart failure- high altitude induced pulmonary hypertension and a surgical model of disease (pulmonary artery banding; PAB)- to understand how the old heart remodels in a distinct manner from the young heart and how this may inform therapeutic approaches for older patients with heart failure.  Specifically, we are currently testing an AMPK activator as novel therapy for the aging right heart.
 
@@ -47,9 +53,9 @@ HM6630: Circulatory, Pulmonary, and Renal Systems
 
 ##### AFFILIATIONS
 
-    American Heart Association
-    American Physiological Association
-    Gerentological Society of America
+American Heart Association
+American Physiological Association
+Gerentological Society of America
 
 #### Benjamin McNair
 
@@ -80,6 +86,10 @@ Working on it.
 ### Gallery
 
 ![](Images/bruns-lab-2019.jpg)
+Left to Right: 
+
+![](Images/labphoto1.jpg)   ![](Images/labphoto2.jpg)
+
 
 ### Contact
 
