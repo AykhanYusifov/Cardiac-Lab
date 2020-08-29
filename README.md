@@ -4,6 +4,8 @@ The Cardiac lab is interested in the molecular mechanisms underlying heart disea
 
 [editor on GitHub](https://github.com/AykhanYusifov/Cardiac-Lab/edit/master/README.md) 
 
+### Cardiac Lab News
+
 ### Current Projects
 
 #### The Right Heart
@@ -75,8 +77,10 @@ Add Zacks bio + image
 
 Working on it.
 
-### Contact
+### Gallery
 
 ![](Images/bruns-lab-2019.jpg)
+
+### Contact
 
 If you are interested in cardiac research then [contact](dbruns1@uwyo.edu) Dr. Danielle Bruns.
