@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Cardiac Lab at University of Wyoming
 
-You can use the [editor on GitHub](https://github.com/AykhanYusifov/Cardiac-Lab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Cardiac lab is interested in the molecular mechanisms underlying heart disease and heart failure. Our research focuses on the impact of age on the failing heart, sex differences in heart failure development and treatment, exercise as medicine for heart failure, and the identification of new therapies for the treatment of cardiac disease. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[editor on GitHub](https://github.com/AykhanYusifov/Cardiac-Lab/edit/master/README.md) 
 
-### Markdown
+### Current Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### The Right Heart
 
-```markdown
-Syntax highlighted code block
+You’re only as strong as your weakest link
 
-# Header 1
-## Header 2
-### Header 3
+The heart is a 4-chambered organ with two sides- the left heart which pumps to the periphery and the right heart which pumps through the lungs.  Cardiac function is limited by the performance of its weakest ventricle, meaning that even in contexts of healthy left ventricular (LV) function, the heart can only perform as well as its weakest link.  In the setting of many human diseases such as heart failure and pulmonary hypertension, this means that right ventricular (RV) function predicts survival.  Our group is interested in understanding how the right heart fails and identifying therapeutic targets for the RV- a disease in which very few therapeutic options exist.
 
-- Bulleted
-- List
+#### The Aging Right Heart
 
-1. Numbered
-2. List
+Aging imparts known changes to the left heart- including hypertrophy, fibrosis, inflammation, and overall reduced cardiac function.  How these changes impact the right heart remains unknown.  Our group uses two models of right heart failure- high altitude induced pulmonary hypertension and a surgical model of disease (pulmonary artery banding; PAB)- to understand how the old heart remodels in a distinct manner from the young heart and how this may inform therapeutic approaches for older patients with heart failure.  Specifically, we are currently testing an AMPK activator as novel therapy for the aging right heart.
 
-**Bold** and _Italic_ and `Code` text
+#### Skeletal Muscle Dysfunction in Heart Failure
 
-[Link](url) and ![Image](src)
-```
+Heart failure is a systemic disease, with peripheral effects including skeletal muscle dysfunction.  In human patients, muscle dysfunction manifests as exercise intolerance.  We’re interested in the molecular mechanisms underlying this skeletal muscle dysfunction, and the identification pf therapies to improve muscle function in young and old patients with heart failure.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Exercise as Medicine for Heart Failure
 
-### Jekyll Themes
+Regular endurance exercise is the best protection against development of cardiovascular disease.  However, the precise molecular mechanisms for how exercise is so potently cardioprotective are not fully understood.  Our group aims to understand how exercise improves cardiac function in the healthy, aging, and failing right hearts, as well as how commonly prescribed medications may interfere with exercise adaptations.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AykhanYusifov/Cardiac-Lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Heart Failure Across the Life-Course
+
+Heart failure impacts patients of all ages- from pediatrics to geriatrics.  The risk factors, disease development, and treatment outcomes differ by patient age and sex, suggesting that important differences exist that might impact therapeutic strategies.  We aim to understand how age and sex impact disease development, and use these differences to develop personalized medicine for heart failure patients of all ages.
+
+### Publications
+
+Working on it.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you are interested in cardiac research then [contact](dbruns1@uwyo.edu) Dr. Danielle Bruns.
