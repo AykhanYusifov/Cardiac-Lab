@@ -1,4 +1,4 @@
-## Welcome to Cardiac Lab at University of Wyoming
+## Welcome to Cardiac Lab
 
 The Cardiac lab is interested in the molecular mechanisms underlying heart disease and heart failure. Our research focuses on the impact of age on the failing heart, sex differences in heart failure development and treatment, exercise as medicine for heart failure, and the identification of new therapies for the treatment of cardiac disease. 
 
@@ -28,10 +28,34 @@ Regular endurance exercise is the best protection against development of cardiov
 
 Heart failure impacts patients of all ages- from pediatrics to geriatrics.  The risk factors, disease development, and treatment outcomes differ by patient age and sex, suggesting that important differences exist that might impact therapeutic strategies.  We aim to understand how age and sex impact disease development, and use these differences to develop personalized medicine for heart failure patients of all ages.
 
+### People
+
+#### Benjamin McNair
+
+Add Bens bio + image
+
+#### Aykhan Yusifov
+
+Add Aykhans bio + image
+
+#### Ross Cook
+
+Add Ross bio + image
+
+#### Musharraf Yusifova
+
+Add Mushu bio + image
+
+#### Zack
+
+Add Zacks bio + image
+
+#### Undergraduates
+
 ### Publications
 
 Working on it.
 
-### Support or Contact
+### Contact
 
 If you are interested in cardiac research then [contact](dbruns1@uwyo.edu) Dr. Danielle Bruns.
