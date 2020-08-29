@@ -30,6 +30,23 @@ Heart failure impacts patients of all ages- from pediatrics to geriatrics.  The 
 
 ### People
 
+#### Dr. Danielle Bruns - Principal Investigator
+
+##### EDUCATION
+
+PhD. Human Bioenergetics, Colorado State University (2013)
+Health and Exercise Science, Colorado State University (2010)
+Exercise Science, Linfield College (2008)
+
+##### TEACHING
+HM6630: Circulatory, Pulmonary, and Renal Systems
+
+##### AFFILIATIONS
+
+    American Heart Association
+    American Physiological Association
+    Gerentological Society of America
+
 #### Benjamin McNair
 
 Add Bens bio + image
