@@ -30,7 +30,9 @@ Heart failure impacts patients of all ages- from pediatrics to geriatrics.  The 
 
 ### People
 
-#### Dr. Danielle Bruns - Principal Investigator  ![](Images/d_bruns_200x300.jpg) 
+#### Dr. Danielle Bruns - Principal Investigator        
+
+![](Images/d_bruns_200x300.jpg) 
 
 ##### EDUCATION
 
