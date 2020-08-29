@@ -58,4 +58,6 @@ Working on it.
 
 ### Contact
 
+![](images/bruns-lab-2019.jpeg)
+
 If you are interested in cardiac research then [contact](dbruns1@uwyo.edu) Dr. Danielle Bruns.
