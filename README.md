@@ -8,6 +8,8 @@ The Cardiac lab is interested in the molecular mechanisms underlying heart disea
 
 ### Cardiac Lab News
 
+Coming soon...
+
 ### Current Projects
 
 #### The Right Heart
